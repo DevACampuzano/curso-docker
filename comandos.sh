@@ -1,3 +1,4 @@
+#crear contenedores
 docker container run \
 -dp 3307:3306 \
 --name world-db \
